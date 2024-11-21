@@ -6,7 +6,7 @@ Course materials are contained in this repository
 ## Scratch pad for the course:
 
 Instructor led code dissemination: <br>
-[https://codeshare.io/PythonRP](https://codeshare.io/ONXYrv)
+[https://codeshare.io/ONXYrv](https://codeshare.io/ONXYrv)
 
 
 ## Other Learning Resources:
